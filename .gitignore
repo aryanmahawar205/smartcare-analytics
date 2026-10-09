@@ -21,8 +21,8 @@ data/processed/
 data/external/
 
 # Trained models and generated artifacts
-artifacts/
-models/
+/artifacts/
+/models/
 *.joblib
 *.pkl
 
